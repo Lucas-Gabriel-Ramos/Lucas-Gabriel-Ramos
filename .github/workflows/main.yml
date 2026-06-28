@@ -24,13 +24,13 @@ jobs:
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg-color_snake=#ff0000
+      - name: generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Lucas-Gabriel-Ramos
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#ff0000
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff0000
           
           
       # push the content of <build_dir> to a branch
