@@ -1,88 +1,73 @@
-# Oie 👋, Sou o Lucas Ramos
 
-🚀 **`Bacharelando em Sistemas de Informação - UNIFEI`**  
-🇧🇷 Brazil
-
-Membro de programção do **Ex-machina**, projeto de extensão da UNIFEI. 
-Atualemnte estou me capacitando em **desenvolvimento web** e em  **GIT e GITHUB**
-
+👨🏽‍💻Lucas Ramos
 ---
 
-## 🌐 Onde me encontrar
+Sempre fui movido pela curiosidade e pela vontade de aprender. Como **`bacharelando em Sistemas de Informação pela UNIFEI`**, busco desenvolver uma base sólida em programação para criar soluções tecnológicas que realmente façam a diferença na sociedade e nos negócios. Na universidade, atuo como membro da subequipe de programação do Ex Machina, um projeto de extensão da universidade. No momento, estou me capacitando em **Desenvolvimento Web** e aprimorando meu fluxo de trabalho com **Git e GitHub**.
+<br> </br>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Lucas-Gabriel-Ramos">
-    <img src="https://img.shields.io/badge/GitHub-Lucas-Gabriel-Ramos-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/lucasx.gab">
-    <img src="https://img.shields.io/badge/Instagram-@lucasx.gabOREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/lucas-ramos-b56434298/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Lucas" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
 
-## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+## 🧠 O que eu faço
 
----
+- 🎓 **Graduando em Sistemas de Informação** na UNIFEI.
+- 💻 **Lógica e Algoritmos:** Desenvolvendo uma base sólida de programação através da linguagem C.
+- 📊 **Análise de Dados & IA:** Explorando o tratamento de dados e conceitos de Inteligência Artificial Generativa.
+- 💼 **Tecnologia & Empreendedorismo:** Aplicando conceitos de administração e sistemas para resolver problemas reais de negócios.
+- 🌱 **Aprendizado Constante:** Sempre buscando novos desafios, participando ativamente de bootcamps e explorando novas áreas, como computação em nuvem e ferramentas de dados.
+- 🌍 **Impacto Social:** Estudando como usar o ambiente tecnológico para criar soluções que promovam mais igualdade e transformem a realidade das pessoas.
+  
+<br></br>
 
-## 🛠️ Tech Stack
+## 🛠️ Linguagens e Tecnologias
 
-### Frontend
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-### Backend
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-### DevOps & Tools
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+<br clear="left" />
+  
+
+
+
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucas-Gabriel-Ramos&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Gabriel-Ramos&theme=gruvbox&layout=compact&custom_title=tecnologias&langs_count=9"
+  />
+  
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
 
----
 
-## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
