@@ -28,7 +28,10 @@ Sempre fui movido pela curiosidade e pela vontade de aprender. Como **`bacharela
 - 🌱 **Aprendizado Constante:** Sempre buscando novos desafios, participando ativamente de bootcamps e explorando novas áreas, como computação em nuvem e ferramentas de dados.
 - 🌍 **Impacto Social:** Estudando como usar o ambiente tecnológico para criar soluções que promovam mais igualdade e transformem a realidade das pessoas.
   
-<br></br>
+<br>
+
+
+</br>
 
 ## 🛠️ Linguagens e Tecnologias
 
@@ -44,12 +47,8 @@ Sempre fui movido pela curiosidade e pela vontade de aprender. Como **`bacharela
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 <br clear="left" />
-  
+<br> </br>
 
-
-
-
----
 
 ## 📊 Estatísticas do GitHub
 <img 
@@ -66,6 +65,11 @@ Sempre fui movido pela curiosidade e pela vontade de aprender. Como **`bacharela
     style="padding-right: 10px;" 
     src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Gabriel-Ramos&theme=gruvbox&layout=compact&custom_title=tecnologias&langs_count=9"
   />
+
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Gabriel-Ramos/Lucas-Gabriel-Ramos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucas-Gabriel-Ramos/Lucas-Gabriel-Ramos/output/github-contribution-grid-snake.svg">
+</picture>
   
 
 
