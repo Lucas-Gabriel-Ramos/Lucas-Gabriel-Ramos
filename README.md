@@ -24,8 +24,7 @@ Sempre fui movido pela curiosidade e pela vontade de aprender. Como **`bacharela
 - 🎓 **Graduando em Sistemas de Informação** na UNIFEI.
 - 💻 **Lógica e Algoritmos:** Desenvolvendo uma base sólida de programação através da linguagem C.
 - 📊 **Análise de Dados & IA:** Explorando o tratamento de dados e conceitos de Inteligência Artificial Generativa.
-- 💼 **Tecnologia & Empreendedorismo:** Aplicando conceitos de administração e sistemas para resolver problemas reais de negócios.
-- 🌱 **Aprendizado Constante:** Sempre buscando novos desafios, participando ativamente de bootcamps e explorando novas áreas, como computação em nuvem e ferramentas de dados.
+- 🌱 **Aprendizado Constante: Comprometido com a evolução contínua, foco em explorar tecnologias como computação em nuvem e análise de dados para desenvolver soluções inovadoras e enfrentar novos desafios.
 - 🌍 **Impacto Social:** Estudando como usar o ambiente tecnológico para criar soluções que promovam mais igualdade e transformem a realidade das pessoas.
   
 <br>
@@ -57,21 +56,20 @@ Sempre fui movido pela curiosidade e pela vontade de aprender. Como **`bacharela
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://vercel.app" 
+    src="https://github.com/Lucas-Gabriel-Ramos&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Gabriel-Ramos&theme=gruvbox&layout=compact&custom_title=tecnologias&langs_count=9"
+    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Gabriel-Ramos&theme=gruvbox&layout=compact&custom_title=tecnologias&langs_count=9"
   />
 
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Gabriel-Ramos/Lucas-Gabriel-Ramos/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucas-Gabriel-Ramos/Lucas-Gabriel-Ramos/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 
   
